@@ -3,7 +3,7 @@
 
 Dashboard d’administration (frontend) pour gérer une API Express/Node.js (backend) avec Prisma/MySQL.
 
-Darija (tl;dr): had l-front kaytssal m3a l-back b routes b7al `/clients/get` / `/clients/create` / `/clients/update/:id` / `/clients/delete/:id` … w kaydir login b JWT.
+ had l-front kaytssal m3a l-back b routes b7al `/clients/get` / `/clients/create` / `/clients/update/:id` / `/clients/delete/:id` … w kaydir login b JWT.
 
 ## Stack
 - React + TypeScript + Vite
@@ -67,6 +67,3 @@ Alternative (recommandée en dev): utiliser un proxy Vite et un `baseURL` en `/a
 - `npm run dev` : développement
 - `npm run build` : build production
 - `npm run lint` : lint
-=======
-# Express-FrontEnd
->>>>>>> 09096f16853a316379aa09719ab03d99a08f8a22
