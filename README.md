@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Admin Dashboard (React + TypeScript)
 
 Dashboard d’administration (frontend) pour gérer une API Express/Node.js (backend) avec Prisma/MySQL.
@@ -66,3 +67,6 @@ Alternative (recommandée en dev): utiliser un proxy Vite et un `baseURL` en `/a
 - `npm run dev` : développement
 - `npm run build` : build production
 - `npm run lint` : lint
+=======
+# Express-FrontEnd
+>>>>>>> 09096f16853a316379aa09719ab03d99a08f8a22
